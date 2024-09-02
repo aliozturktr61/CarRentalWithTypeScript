@@ -47,10 +47,12 @@ npx tailwindcss init -p
 # DNS Kayıt Türleri
 
 - A (Adress) Kaydı: Bir alana adını doğrudan IP adresine yönlendirir.
-Örneğin kullanıcı furkanevin.xyz adresine girdiğinde A Kaydı ile 192.168.1.1 IP adresine yönlendirilir.
 
 - NS (Name Server) Kaydı: Alan adının hangi ad sunucuları tarafından yönetilidğini belirtir.
 
 - CNAME (Canonical Name) Kaydı: Bit adını başka bir alan adına yönlendirir.
 
 # CarRentalWithTypeScript
+![Zight Recording 2024-09-02 at 02 34 08 PM](https://github.com/user-attachments/assets/97029cf8-4069-44ad-ae61-61b5ebfc19c2)
+
+
